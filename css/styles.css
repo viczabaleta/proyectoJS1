@@ -1,0 +1,39 @@
+.header {
+    background-color: #055568;
+    display: flex;
+    align-items: center;
+    justify-content: baseline;
+    height: 80px;
+    color:white
+}
+
+.logo {
+    padding-left: 100px;
+
+}
+
+.header h3 {
+    padding-left: 30px;
+    padding-right: 10px;
+}
+
+.btn-light {
+    color: black;
+    background: #D05663;
+    border-radius: 10px;
+    border: none;
+}
+
+.errores {
+    height: 90px;
+    background-color: #055568;
+    color: white;
+    text-align: center;
+}
+
+.form-control {
+    background-color: #C3CBD6;
+    border: 2px solid #D05663;
+    border-radius: 10px;
+}
+
